@@ -1,0 +1,17 @@
+button {
+    border-radius: 50px;
+}
+.logo img {
+    height: 50px;
+    margin-bottom: 50px;
+}
+.login {
+    width: 500px;
+    margin: auto;
+    padding: 100px;
+    border: 2px solid black;
+}
+.icon-img {
+    height: 20px;
+    
+}
