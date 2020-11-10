@@ -12,7 +12,9 @@ span{
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+section {
+  overflow: hidden;
+}
 
 
 

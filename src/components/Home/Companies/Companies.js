@@ -13,6 +13,7 @@ import logo5 from'../../../images/logos/airbnb.png';
 
 const Companies = () => {
     return (
+        <section>
         <div className="d-flex justify-content-center row">
             <div  className="img col-6 col-md-2">
                 <img src={logo1} className="img-fluid" alt=""/>
@@ -30,6 +31,7 @@ const Companies = () => {
                 <img src={logo5} className="img-fluid" alt=""/>
             </div>
         </div>
+        </section>
     );
 };
 
